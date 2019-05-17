@@ -2,7 +2,7 @@ package Characters;
 
 import Game.Location;
 
-/* Abstract class that represents a Character */
+/* Abstract class that represents a Character  */
 public interface Character {
 	
 	 public void move();
